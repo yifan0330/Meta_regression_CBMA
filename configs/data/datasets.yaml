@@ -1,0 +1,6 @@
+_target_: data_generation.Data_simulation.Simulation
+
+n_group: 1
+n_study: 1
+image_dim: [91, 109, 91]
+mu: [1,1]
