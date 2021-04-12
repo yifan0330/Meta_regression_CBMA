@@ -1,0 +1,156 @@
+settings: n_study_25_spacing_15_mu_list_['1', '1']
+The p-value range of wald statistics of beta difference in two groups is: [0.051366740194151606 , 1.0 ]
+reject null hypothesis at 0 out of 100 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.003342637447453453 , 1.0 ]
+reject null hypothesis at 257 voxels. 
+------------------------------------------------------------------
+settings: n_study_25_spacing_15_mu_list_['0.1', '0.1']
+The p-value range of wald statistics of beta difference in two groups is: [0.04423170320148759 , 1.0 ]
+reject null hypothesis at 1 out of 100 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.005944833939010961 , 1.0 ]
+reject null hypothesis at 132 voxels. 
+------------------------------------------------------------------
+settings: n_study_25_spacing_15_mu_list_['0.01', '0.01']
+The p-value range of wald statistics of beta difference in two groups is: [0.0002790672581305844 , 1.0 ]
+reject null hypothesis at 7 out of 100 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.0007834921575262597 , 1.0 ]
+reject null hypothesis at 291 voxels. 
+------------------------------------------------------------------
+settings: n_study_50_spacing_15_mu_list_['0.1', '0.1']
+The p-value range of wald statistics of beta difference in two groups is: [0.00833109295585981 , 1.0 ]
+reject null hypothesis at 1 out of 100 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.0021615422145051908 , 1.0 ]
+reject null hypothesis at 409 voxels. 
+------------------------------------------------------------------
+settings: n_study_50_spacing_15_mu_list_['0.01', '0.01']
+The p-value range of wald statistics of beta difference in two groups is: [0.03707501008563728 , 1.0 ]
+reject null hypothesis at 2 out of 100 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.0039862556216601255 , 1.0 ]
+reject null hypothesis at 296 voxels. 
+------------------------------------------------------------------
+settings: n_study_100_spacing_15_mu_list_['1', '1']
+The p-value range of wald statistics of beta difference in two groups is: [0.01042083341544085 , 1.0 ]
+reject null hypothesis at 4 out of 100 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.002536470781266828 , 1.0 ]
+reject null hypothesis at 252 voxels. 
+------------------------------------------------------------------
+settings: n_study_100_spacing_15_mu_list_['0.1', '0.1']
+The p-value range of wald statistics of beta difference in two groups is: [0.014885536511321762 , 1.0 ]
+reject null hypothesis at 2 out of 100 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.00017018194902266245 , 1.0 ]
+reject null hypothesis at 470 voxels. 
+------------------------------------------------------------------
+settings: n_study_100_spacing_15_mu_list_['0.01', '0.01']
+The p-value range of wald statistics of beta difference in two groups is: [0.027600724254387903 , 1.0 ]
+reject null hypothesis at 3 out of 100 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [9.699933894197727e-05 , 1.0 ]
+reject null hypothesis at 248 voxels. 
+------------------------------------------------------------------
+settings: n_study_25_spacing_10_mu_list_['1', '1']
+The p-value range of wald statistics of beta difference in two groups is: [0.00876838066037276 , 1.0 ]
+reject null hypothesis at 2 out of 169 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.0006296396970669387 , 1.0 ]
+reject null hypothesis at 101 voxels. 
+------------------------------------------------------------------
+settings: n_study_25_spacing_10_mu_list_['0.1', '0.1']
+The p-value range of wald statistics of beta difference in two groups is: [0.0074062466598524435 , 1.0 ]
+reject null hypothesis at 4 out of 169 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.00337757837597234 , 1.0 ]
+reject null hypothesis at 167 voxels. 
+------------------------------------------------------------------
+settings: n_study_25_spacing_10_mu_list_['0.01', '0.01']
+The p-value range of wald statistics of beta difference in two groups is: [0.0060455580045924604 , 1.0 ]
+reject null hypothesis at 5 out of 169 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.0015729446363061399 , 1.0 ]
+reject null hypothesis at 202 voxels. 
+------------------------------------------------------------------
+settings: n_study_50_spacing_10_mu_list_['1', '1']
+The p-value range of wald statistics of beta difference in two groups is: [0.00011743454693114642 , 1.0 ]
+reject null hypothesis at 9 out of 169 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.00013986369030490905 , 1.0 ]
+reject null hypothesis at 76 voxels. 
+------------------------------------------------------------------
+settings: n_study_50_spacing_10_mu_list_['0.1', '0.1']
+The p-value range of wald statistics of beta difference in two groups is: [0.006116187255820254 , 1.0 ]
+reject null hypothesis at 5 out of 169 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.001449711874213681 , 1.0 ]
+reject null hypothesis at 186 voxels. 
+------------------------------------------------------------------
+settings: n_study_50_spacing_10_mu_list_['0.01', '0.01']
+The p-value range of wald statistics of beta difference in two groups is: [0.017369336352576037 , 1.0 ]
+reject null hypothesis at 3 out of 169 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [4.081627034291294e-05 , 1.0 ]
+reject null hypothesis at 388 voxels. 
+------------------------------------------------------------------
+settings: n_study_100_spacing_10_mu_list_['1', '1']
+The p-value range of wald statistics of beta difference in two groups is: [0.06209632695253415 , 1.0 ]
+reject null hypothesis at 0 out of 169 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.004207080531088189 , 1.0 ]
+reject null hypothesis at 227 voxels. 
+------------------------------------------------------------------
+settings: n_study_100_spacing_10_mu_list_['0.1', '0.1']
+The p-value range of wald statistics of beta difference in two groups is: [0.015702187079343965 , 1.0 ]
+reject null hypothesis at 5 out of 169 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.0006233421809568087 , 1.0 ]
+reject null hypothesis at 383 voxels. 
+------------------------------------------------------------------
+settings: n_study_100_spacing_10_mu_list_['0.01', '0.01']
+The p-value range of wald statistics of beta difference in two groups is: [0.00919639295232683 , 1.0 ]
+reject null hypothesis at 1 out of 169 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.002465817018356432 , 1.0 ]
+reject null hypothesis at 242 voxels. 
+------------------------------------------------------------------
+settings: n_study_25_spacing_5_mu_list_['1', '1']
+The p-value range of wald statistics of beta difference in two groups is: [0.004303603693928 , 1.0 ]
+reject null hypothesis at 5 out of 529 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [5.701737894407238e-06 , 1.0 ]
+reject null hypothesis at 292 voxels. 
+------------------------------------------------------------------
+settings: n_study_25_spacing_5_mu_list_['0.1', '0.1']
+The p-value range of wald statistics of beta difference in two groups is: [0.0005664194351809927 , 1.0 ]
+reject null hypothesis at 23 out of 529 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.00048466256009870604 , 1.0 ]
+reject null hypothesis at 389 voxels. 
+------------------------------------------------------------------
+settings: n_study_25_spacing_5_mu_list_['0.01', '0.01']
+The p-value range of wald statistics of beta difference in two groups is: [0.004510682137078179 , 1.0 ]
+reject null hypothesis at 13 out of 529 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.1689105899802324 , 1.0 ]
+reject null hypothesis at 0 voxels. 
+------------------------------------------------------------------
+settings: n_study_50_spacing_5_mu_list_['1', '1']
+The p-value range of wald statistics of beta difference in two groups is: [0.00559870451420745 , 1.0 ]
+reject null hypothesis at 21 out of 529 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [3.1708004032402154e-05 , 1.0 ]
+reject null hypothesis at 265 voxels. 
+------------------------------------------------------------------
+settings: n_study_50_spacing_5_mu_list_['0.1', '0.1']
+The p-value range of wald statistics of beta difference in two groups is: [0.007605082059795518 , 1.0 ]
+reject null hypothesis at 24 out of 529 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.00010751444790034271 , 1.0 ]
+reject null hypothesis at 441 voxels. 
+------------------------------------------------------------------
+settings: n_study_50_spacing_5_mu_list_['0.01', '0.01']
+The p-value range of wald statistics of beta difference in two groups is: [3.1126629290400334e-05 , 1.0 ]
+reject null hypothesis at 16 out of 529 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.006671504229225211 , 1.0 ]
+reject null hypothesis at 50 voxels. 
+------------------------------------------------------------------
+settings: n_study_100_spacing_5_mu_list_['1', '1']
+The p-value range of wald statistics of beta difference in two groups is: [0.0005150599272617007 , 1.0 ]
+reject null hypothesis at 15 out of 529 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.0006334003679350323 , 1.0 ]
+reject null hypothesis at 233 voxels. 
+------------------------------------------------------------------
+settings: n_study_100_spacing_5_mu_list_['0.1', '0.1']
+The p-value range of wald statistics of beta difference in two groups is: [0.0022131464892950043 , 1.0 ]
+reject null hypothesis at 8 out of 529 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [7.317428323399904e-05 , 1.0 ]
+reject null hypothesis at 341 voxels. 
+------------------------------------------------------------------
+settings: n_study_100_spacing_5_mu_list_['0.01', '0.01']
+The p-value range of wald statistics of beta difference in two groups is: [0.0020187182376017105 , 1.0 ]
+reject null hypothesis at 9 out of 529 element in beta. 
+The p-value range of wald statistics of mu_per_study difference in two groups: [0.01329106241803111 , 1.0 ]
+reject null hypothesis at 31 voxels. 
+------------------------------------------------------------------
